@@ -196,12 +196,6 @@ https://drive.google.com/file/d/1_p4vfs1zNe6pL-wNq-fxRGWPkKjQ6rQw/view?usp=drive
 ```
 # 📸 Evidencias del Proyecto
 
-## 🔧 Archivo arreglar.php
-
-![Arreglar](CAPTURAS/arreglar.png)
-
----
-
 ## 🗄 Base de Datos
 
 ![Base de Datos](CAPTURAS/base_de_datos.png)
@@ -214,19 +208,19 @@ https://drive.google.com/file/d/1_p4vfs1zNe6pL-wNq-fxRGWPkKjQ6rQw/view?usp=drive
 
 ---
 
-## 🔌 Conexión al Servidor
-
-![Conexion Servidor](CAPTURAS/conexion_servidor.png)
-
----
-
-## 🔗 Archivo conexion.php
+## 🔗 conexion.php
 
 ![Conexion](CAPTURAS/conexion.png)
 
 ---
 
-## 📞 Formulario contactos.html
+## 🔌 Conexión Servidor
+
+![Conexion Servidor](CAPTURAS/conexion_servidor.png)
+
+---
+
+## 📞 contactos.html
 
 ![Contactos HTML](CAPTURAS/contactos_html.png)
 
@@ -244,13 +238,13 @@ https://drive.google.com/file/d/1_p4vfs1zNe6pL-wNq-fxRGWPkKjQ6rQw/view?usp=drive
 
 ---
 
-## 📅 Registro de Citas
+## 📅 Registro Citas
 
 ![Registro Citas](CAPTURAS/registro_citas.png)
 
 ---
 
-## 📞 Registro de Contactos
+## 📞 Registro Contactos
 
 ![Registro Contactos](CAPTURAS/registro_contactos.png)
 
@@ -268,12 +262,12 @@ https://drive.google.com/file/d/1_p4vfs1zNe6pL-wNq-fxRGWPkKjQ6rQw/view?usp=drive
 
 ---
 
-## ✅ Respuesta del Formulario
+## ✅ Respuesta Formulario
 
-![Respuesta Formulario](CAPTURAS/respuesta_formulario.png)
+![Respuesta](CAPTURAS/respuesta_formulario.png)
 
 ---
 
-## 🗂 Tablas de Base de Datos
+## 🗂 Tablas Base de Datos
 
 ![Tablas](CAPTURAS/tablas_base_de_datos.png)
