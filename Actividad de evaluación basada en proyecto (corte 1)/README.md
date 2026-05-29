@@ -258,7 +258,7 @@ https://drive.google.com/file/d/1_p4vfs1zNe6pL-wNq-fxRGWPkKjQ6rQw/view?usp=drive
 
 ## 👥 Registro Usuarios
 
-![Registro Usuarios](Capturas/registro_usuarios.png)
+![Registro Usuarios](Actividad%20de%20evaluación%20basada%20en%20proyecto%20\(corte%201\)/capturas/registro_usuarios.png)
 
 ---
 
