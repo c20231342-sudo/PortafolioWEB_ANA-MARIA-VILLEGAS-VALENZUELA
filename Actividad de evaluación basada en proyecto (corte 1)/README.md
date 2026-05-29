@@ -198,82 +198,82 @@ https://drive.google.com/file/d/1_p4vfs1zNe6pL-wNq-fxRGWPkKjQ6rQw/view?usp=drive
 
 ## 🔧 Archivo arreglar.php
 
-![arreglar](CAPTURAS/arreglar.png)
+![Arreglar](CAPTURAS/arreglar.png)
 
 ---
 
 ## 🗄 Base de Datos
 
-![base de Datos](CAPTURAS/base de datos.png)
+![Base de Datos](CAPTURAS/base_de_datos.png)
 
 ---
 
 ## 📅 Formulario citas.html
 
-![citas HTML](CAPTURAS/citas html.png)
+![Citas HTML](CAPTURAS/citas_html.png)
 
 ---
 
 ## 🔌 Conexión al Servidor
 
-![conexion Servidor](CAPTURAS/conexion_servidor.png)
+![Conexion Servidor](CAPTURAS/conexion_servidor.png)
 
 ---
 
 ## 🔗 Archivo conexion.php
 
-![conexion](CAPTURAS/conexion.png)
+![Conexion](CAPTURAS/conexion.png)
 
 ---
 
 ## 📞 Formulario contactos.html
 
-![contactos HTML](CAPTURAS/contactos html.png)
+![Contactos HTML](CAPTURAS/contactos_html.png)
 
 ---
 
 ## 📝 Formularios Llenos
 
-![formularios](CAPTURAS/formularios llenos.png)
+![Formularios](CAPTURAS/formularios_llenos.png)
 
 ---
 
 ## 🏠 index.php
 
-![index](CAPTURAS/index php.png)
+![Index](CAPTURAS/index_php.png)
 
 ---
 
 ## 📅 Registro de Citas
 
-![registro Citas](CAPTURAS/registro citas.png)
+![Registro Citas](CAPTURAS/registro_citas.png)
 
 ---
 
 ## 📞 Registro de Contactos
 
-![registro Contactos](CAPTURAS/registro contactos.png)
+![Registro Contactos](CAPTURAS/registro_contactos.png)
 
 ---
 
 ## 👤 Registro HTML
 
-![registro HTML](CAPTURAS/registro html.png)
+![Registro HTML](CAPTURAS/registro_html.png)
 
 ---
 
 ## 👥 Registro Usuarios
 
-!registro Usuarios](CAPTURAS/Registro usuarios.png)
+![Registro Usuarios](CAPTURAS/registro_usuarios.png)
 
 ---
 
 ## ✅ Respuesta del Formulario
 
-![respuesta Formulario](CAPTURAS/respuesta formulario.png)
+![Respuesta Formulario](CAPTURAS/respuesta_formulario.png)
 
 ---
 
 ## 🗂 Tablas de Base de Datos
 
-![tablas](CAPTURAS/tablas base de datos.png)
+![Tablas](CAPTURAS/tablas_base_de_datos.png)
